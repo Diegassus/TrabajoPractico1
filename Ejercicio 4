@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+    <TITLE> Mi primera página Web principal</TITLE>
+</HEAD>
+
+<BODY>
+    <a href="child1/pag1.html">siguiente</a>
+    <a href="child2/pagina2.html">anterior</a>
+</BODY>
+
+</HTML>
+
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+    <TITLE> Mi primera página Web c1 </TITLE>
+</HEAD>
+
+<BODY>
+    <a href="../child2/pagina2.html">siguiente</a>
+    <a href="../ejercicios.html">anterior</a>
+</BODY>
+
+</HTML>
+
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+    <TITLE> Mi primera página Web c2 </TITLE>
+</HEAD>
+
+<BODY>
+    <a href="../child1/pag1.html">siguiente</a>
+    <a href="../ejercicios.html">anterior</a>
+</BODY>
+
+</HTML>
