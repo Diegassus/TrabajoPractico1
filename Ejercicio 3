@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+    <TITLE> Mi primera página Web </TITLE>
+</HEAD>
+
+<BODY>
+    <div><img src="https://i.pinimg.com/564x/2d/70/1f/2d701f60a5697686370cb3a81ea5ca52.jpg">
+        Foto de 300x300</div>
+    <div><img src="https://i.pinimg.com/474x/a2/5c/e0/a25ce0682c9d4923ee81e626ef64762d.jpg">
+        Foto de 250x400</div>
+    <div><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQNOHDQ4vM4o7OQ3CFcjJtCQg5t8gqgcZoQButiqpYPi987PDq4D-rS4qd-AIJHtpddnE&usqp=CAU">
+        Foto de 500x300</div>
+</BODY>
+
+</HTML>
