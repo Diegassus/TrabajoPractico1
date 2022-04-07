@@ -14,18 +14,24 @@
         <div class="container">
             <a href="https://tinogasta.tur.ar/index.html"><img src="https://tinogasta.tur.ar/img/logo-nav.png"></a>
             <nav class="menu_principal">
-                <a href="https://tinogasta.tur.ar/index.html">Inicio</a>
-                <a href="https://tinogasta.tur.ar/hoteles.html">Informacion</a>
-                <a href="https://tinogasta.tur.ar/hoteles.html#features">Acceso</a>
-                <a href="https://tinogasta.tur.ar/hoteles.html#portfolio">Galeria</a>
-                <a href="https://tinogasta.tur.ar/hoteles.html">Turismo</a>
-                <a href="https://tinogasta.tur.ar/hoteles.html#contact">Contactanos</a>
+                <a class="link" href="https://tinogasta.tur.ar/index.html">Inicio</a>
+                <a class="link" href="https://tinogasta.tur.ar/hoteles.html">Informacion</a>
+                <a class="link" href="https://tinogasta.tur.ar/hoteles.html#features">Acceso</a>
+                <a class="link" href="https://tinogasta.tur.ar/hoteles.html#portfolio">Galeria</a>
+                <a class="link" href="https://tinogasta.tur.ar/hoteles.html">Turismo</a>
+                <a class="link" href="https://tinogasta.tur.ar/hoteles.html#contact">Contactanos</a>
             </nav>
         </div>
+        <div class="redes">
+            <a class="logo_red" href="https://www.facebook.com/TinogastaTur"><img src="facebook-brands.svg"></a>
+            <a class="logo_red" href="https://www.instagram.com/turismo.tinogasta/"><img src="instagram-brands.svg"></a>
+        </div>
     </header>
+
     <section id="foto">
         <img src="https://tinogasta.tur.ar/images/banners/ALOJAMIENTO.png">
     </section>
+
     <table class="data">
         <tr>
             <th>
@@ -49,7 +55,7 @@
                 03834 324006 / 471798
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Hotel Nicolas</p>
             </td>
@@ -71,7 +77,7 @@
                 03837-421088
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Hotel Casa Grande</p>
             </td>
@@ -93,7 +99,7 @@
                 03837-693628
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Hotel María Elena</p>
             </td>
@@ -115,7 +121,7 @@
                 3835 483176
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Hostal Sisabel </p>
             </td>
@@ -137,7 +143,7 @@
                 03837-420416
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Hosteria Novel</p>
             </td>
@@ -159,7 +165,7 @@
                 03837-15414944
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Residencia el Viajante </p>
             </td>
@@ -181,7 +187,7 @@
                 03837-475201
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Residencia El Emperador </p>
             </td>
@@ -203,7 +209,7 @@
                 03834 324006 / 471798
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Casa de Campo "La Sala" </p>
             </td>
@@ -225,7 +231,7 @@
                 351 2333917
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Cabañas el Zorro Gris </p>
             </td>
@@ -247,7 +253,7 @@
                 03834-755666
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Cabañas del Indio </p>
             </td>
@@ -269,7 +275,7 @@
                 3837-471565 / 3834 032105
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Casa Blanca</p>
             </td>
@@ -291,7 +297,7 @@
                 3837 400498
             </td>
         </tr>
-        <tr>
+        <tr class="oscuro">
             <td>
                 <p>Hostal La Mónica </p>
             </td>
@@ -322,14 +328,989 @@
                 Ubicacion: Moreno 801<br>
                 Datos de Contacto Whatsapp : +5493837438317<br>
                 Mail : Info@casagrandetour.com<br>
-                Telefono Fijo : 03837 421140<br>
+                Telefono Fijo : 03837 421140
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/Casagrande/3.JPG"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/Casagrande/B.jpeg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/Casagrande/K-K.png"></div>
+            
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>Cabañas del Indio</h2>
+            <p>El proyecto CABAÑAS del INDIO nace en el amor y agradecimiento a mi pueblo Tinogasteño.
+                Este esfuerzo familiar en ejecución está orientado a brindar los mejores servicios al turismo.
+                Para ello ya contamos con un bloque de dos cabañas, entre otras en marcha, que ya está habilitada y
+                consta de: Cocina-comedor equipada con una mesa, cinco sillas, heladera, horno eléctrico con dos anafes,
+                TV led de 30', ventilador de techo de madera. -- Dos dormitorios.
+                Uno de ellos está equipado con un somier de 2 1/2 plazas, mesa de luz, veladores, aire acondicionado
+                Split frío/calor. El otro dormitorio tiene dos somier de 1 1/2 plaza, mesa de luz, velador, aire
+                acondicionado Split frío/calor.
+                Cocina-comedor equipada con una mesa, cinco sillas, heladera, horno eléctrico con dos anafes, TV led de
+                30', ventilador de techo de madera. -- Dos dormitorios. Uno de ellos está equipado con un somier de 2
+                1/2 plazas, mesa de luz, veladores, aire acondicionado Split frío/calor. El otro dormitorio tiene dos
+                somier de 1 1/2 plaza, mesa de luz, velador, aire acondicionado Split frío/calor.
+                Cada cabaña con su correspondiente baño y ante baño, termotanque.
+                Hay mata fuego en cada cabaña.
+                Cada cabaña tiene su asados y su quincho parrillero que tambien sirve de proteccioón al auto.
+                Si bien son cabañas para cuatro personas, hay espacio suficiente para agregar otro somier si hiciera
+                falta.
+                También se cuenta con un servicio completo de vajilla y toilette.
+                En breve habilitaremos otro bloque de cabañas de un dormitorio y el salón de recepción.
+                Nuestras cabañas se encuentran en calle Moreno 165.
+                FORMAS DE PAGO: Efectivo, Tarjetas de Crédito y débito, Transferencia bancaria. </p>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/cabana-del-indio/img3.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/cabana-del-indio/img6.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/cabana-del-indio/img7.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>Hotel Nicolas</h2>
+            <p>"Hotel Nicolas" (Tinogasta/Catamarca) es un emprendimiento familiar.
+                FUE CREADO EN EL AÑO 1963 POR SU DUEÑO DON NICOLAS OLIVERA Y SU SEÑORA ESPOSA DALMIRA NIEVA DE OLIVERA.
+                ERA UNA CASA MUY GRANDE DONDE VIVÍA CON SU FAMILIA. TODO COMENZÓ CUANDO UN DÍA CONVERSANDO CON VIAJANTES
+                QUIENES LE COMENTARON QUE NO HABIA LUGAR PARA ALOJARSE, DECIDE ABRIR LAS PUERTAS DE SU HOGAR PARA DAR
+                VIDA AL HOTEL NICOLAS Y TAMBIEN BRINDAR EL SERVICIO DE ALMUERZO Y CENA A SUS CLIENTES.</p>
+            <div class="datos">
+                Ubicado en calle Presidente Perón 231 y cuenta con los siguientes servicios:<br>
+                -Habitaciones con baño privado<br>
+                - Aire acondicionado/calefacción<br>
+                - Televisión por cable<br>
+                - Wifi<br>
+                - Desayuno incluido<br>
+                - Playa de estacionamiento<br>
+                - Limpieza/Lavandería<br>
+                - Atención personalizada las 24 hs.<br>
+                -FORMAS DE PAGO: Efectivo. Depósitos o Transferencias.<br>
+                <br>
+                Contacto:<br>
+                - Teléfono fijo: (03837) 420028<br>
+                - Celular: (03834) 15525626<br>
+                - E-mail: hotelnicolastinogasta@gmail.com<br>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hotel%20nicolas/hotel-10.png"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hotel%20nicolas/hotel-14.png"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hotel%20nicolas/hotel15.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>Hotel Las Pircas</h2>
+            <div class="datos">
+                Dirección:<br>
+                Ruta Nacional 60 Km. 1341, Catamarca, 5341 Tinogasta, Argentina.<br>
+                YouTube:<br>
+                <a
+                    href="https://www.youtube.com/watch?v=SNbziBHv_kw">https://www.youtube.com/watch?v=SNbziBHv_kw</a><br>
+                Telefono: 3835483176<br>
+                <iframe width="560" height="150" src="https://www.youtube.com/embed/SNbziBHv_kw"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/las%20pircas/3.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/las%20pircas/12.jpg"></div>
+           <div><img src="https://tinogasta.tur.ar/images/turismo/las%20pircas/16.jpg"></div> 
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>Hotel Hacienda Casa Blanca</h2>
+            <p>Hotel Hacienda Casa Blanca, ubicado a solo 5 km de Tinogasta. Es una finca de 70 has que brinda servicio
+                de Alojamiento y restaurant, en una casona de adobe del Siglo XVIII, puesta en valor, con suites súper
+                amplias con todo el confort y los servicios para que el huésped tenga un excelente descanso y
+                experimente una conexión única con el entorno. En la misma se pueden realizar actividades como
+                cabalgatas y trekking. Ideal para aquellos amantes del turismo rural</p>
+            <div class="datos">
+                Facebook:<br>
+                <a
+                    href="https://www.facebook.com/Complejo-Casa-Blanca-592390097927691/">https://www.facebook.com/Complejo-Casa-Blanca-592390097927691/</a><br>
+                UBICACIÓN: LA PUNTILLA<br>
+                TEL.: 3837-421140 / CEL. 3837-438317<br>
+                INSTAGRAM: casablancacomplejo G<br>
+                FACEBOOK: Complejo casa Blanca <br>
+                <br>
+                SERVICIOS:<br>
+                -HABITACIONES CON TV DIRECTV<br>
+                -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR<br>
+                -ESTACIONAMIENTO<br>
+                -BAÑO PRIVADO<br>
+                -DESAYUNO INCLUIDO<br>
+                -SERVICIO DESPERTADOR<br>
+                -FORMAS DE PAGO: Efectivo, y Transferencia bancaria<br>
+                -PILETA<br>
+                -CABALGATAS<br>
+                -CAMINATAS<br>
+                -SERVICIO DE ALMUERZO O CENA FUERA DEL COSTO DE ALOJAMIENTO <br>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/Hotel%20Hacienda%20Casa%20Blanca/img-2.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/Hotel%20Hacienda%20Casa%20Blanca/img-3.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/Hotel%20Hacienda%20Casa%20Blanca/img4.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>Hostal Los Sesto</h2>
+            <p>INICIÓ SU ACTIVIDAD EL 02 DE JULIO DEL AÑO 2019. SUS DUEÑOS, LOS HERMANOS VERÓNICA, GUILLERMO, MARCELA Y
+                GABRIELA SESTO, PONEN EN VALOR LA CASA PATERNA DE LA FAMILIA PARA QUE FUNCIONE COMO HOSTAL, LA CASONA
+                POSEE LOS MUEBLES ORIGINALES PERTENECIENTES SU FAMILIA.</p>
+
+            <p>Nuestro hostal cuenta con 5 habitaciones con camas de 1 y 2 plazas y 2 baños para compartir, la capacidad
+                máxima es para 12 personas.</p>
+
+            <p>Todas las habitaciones cuentan con aire acondicionado frío/calor y se encuentran en un primer piso, hay
+                que subir por escaleras para acceder a ellas.</p>
+            <div class="datos">
+                Los servicios incluidos en el precio son:<br>
+                -WIFI<br>
+                -HABITACIONES CON TV CABLE<br>
+                -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR<br>
+                -SIN ESTACIONAMIENTO<br>
+                -DESAYUNO INCLUIDO<br>
+                -SERVICIO DESPERTADOR<br>
+                -FORMAS DE PAGO: Efectivo, Tarjetas de Crédito y Débito. -Transferencias.<br>
+                -COCINA EQUIPADA COMPLETA CON BATERIA DE COCINA Y VAJILLA.<br>
+                -BAÑO COMPARTIDO <br>
+                <p>
+                    El hostal tiene muy buena ubicación ya que se encuentra a una cuadra de la plaza principal y casco
+                    céntrico de la ciudad.<br>
+                    Dirección: MORENO 518 Tinogasta – Catamarca<br>
+                    Celulares de contacto: 3837-473166 / 3837-404107 / 3837-435183<br>
+                    Email: hostallossesto@gmail.com<br>
+                    Facebook: Hostal Los Sesto <br>
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hostal%20los%20sesto/5-5.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hostal%20los%20sesto/3-3.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hostal%20los%20sesto/7.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>RECIDENCIAL SAN FRANCISCO</h2>
+            <div class="datos">
+                UBICACIÓN: MORENO 748:<br>
+                TEL.: 3837-475201<br>
+
+                <p>
+                    SERVICIOS:<br>
+                    -HABITACIONES CON TV CABLE<br>
+                    -ESTACIONAMIENTO<br>
+                    -WIFI: A consultar<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR: A consultar<br>
+                    -SERVICIO DESPERTADOR<br>
+                    -FORMA DE PAGO: Sólo efectivo<br>
+                    -BAÑO PRIVADO<br>
+                    -NO INCLUYE EL DESAYUNO<br>
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/residencial-san-francisco/san-francisco1.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>RECIDENCIAL EL EMPERADOR</h2>
+            <div class="datos">
+                UBICACIÓN: Catamarca 655<br>
+                TEL.: 3837-404151 / 3837-420702
+                <br>
+                <p>
+                    SERVICIOS:
+                    -WIFI<br>
+                    -BAÑO PRIVADO<br>
+                    -HABITACIONES CON TV CABLE<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR EN LA MAYORIA DE LAS HABITACIONES. LAS OTRAS TIENEN
+                    AIRE FRIO Y ESTUFAS.<br>
+                    -ESTACIONAMIENTO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -SERVICIO DESPERTADOR<br>
+                    -FORMAS DE PAGOS: Efectivo
+                </p>
+                <p>
+                    RESEÑA HISTORICA:<br>
+                    INICIÓ SU ACTIVIDAD EN EL AÑO 2000, SU DUEÑO JULIO CÉSAR ARIAS TUVO EL SUEÑO DE INVERTIR EN
+                    TINOGASTA, COMENZÓ CONSTRUYENDO 13 HABITACIONES LAS CUALES DIERON VIDA AL RESIDENCIAL, PARA LUEGO
+                    AMPLIAR Y LLEGAR A LAS 22 HABITACIONES QUE EN LA ACTUALIDAD TIENE. AHORA, EL MISMO ESTÁ A CARGO DE
+                    SU SOBRINO DANIEL VALDIVIESO.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+           <div><img src="https://tinogasta.tur.ar/images/turismo/residencia-el-emperador/1-1.jpg"></div> 
+            <div><img src="https://tinogasta.tur.ar/images/turismo/residencia-el-emperador/2-2.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/residencia-el-emperador/3-3.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>CABAÑAS ZORRO GRIS</h2>
+            <div class="datos">
+                UBICACIÓN: Posee 2 ingresos, uno por Villa San Roque y otro por la Ruta 60 KM. 1338
+
+                <p>
+                    TEL.: 383-4334948
+                    PÁGINAS/E-MAIL: <a href="www.elzorrogris.com.ar">www.elzorrogris.com.ar</a> /
+                    reservas@elzorrogris.com.ar<br>
+                    SERVICIOS:<br>
+                    -WIFI<br>
+                    -LAS HABITACONES NO POSEEN TV. EL MISMO SE ENCUENTRA EN EL SALÓN GENERAL<br>
+                    -BAÑO PRIVADO<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR<br>
+                    -ESTACIONAMIENTO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -SERVICIO DESPERTADOR<br>
+                    -PILETA<br>
+                    -FORMAS DE PAGO: Efectivo. Tarjetas de Crédito y Débito. Mercado Pago.<br>
+                    -OFRECE ACTIVIDADES ALTERNATIVAS: CABALGATAS, CAMINATAS, DEGUSTACIÒN DE VINOS, ALQUILER DE
+                    BICICLETAS.<br>
+                    -ESTÁ COMPUESTO POR 2 CABAÑAS CON COCINA COMPLETA Y 3 DORMIS.<br>
+                    -ALMUERZO, MERIENDA Y CENA SÓLO A PEDIDO DEL CLIENTE. COSTO ES APARTE.
+                </p>
+                <p>
+                    RESEÑA HISTORICA<br>
+                    LA IDEA INICIAL DE SU DUEÑA EGLE ALTAMIRANO, ERA CREAR UNA BODEGA Y TENER DISPONIBLE 3 DORMIS LOS
+                    CUALES ALQUILARON, CON EL TIEMPO FUERON DESCUBRIENDO EL POTENCIAL QUE TENIA EL TURISMO EN TINOGASTA
+                    Y CONSTRUYERON LAS 2 CABAÑAS EN LA LOCALIDAD DE VILLA SAN ROQUE.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/cabana-zorro-gris/1-1.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/cabana-zorro-gris/2-2.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/cabana-zorro-gris/3-3.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>HOTEL SAN JOSÉ</h2>
+            <div class="datos">
+                UBICACIÓN: DR. ANTONIO DEL PINO 425
+
+                <p>
+                    TEL.: 3837 698171<br>
+                    PÁGINAS/E-MAIL: pabloivangonzalez@gmail.com
+                </p>
+                <p>
+                    SERVICIOS:<br>
+                    -WIFI<br>
+                    -HABITACIONES CON TV CABLE<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO<br>
+                    -BAÑO PRIVADO<br>
+                    -ESTACIONAMIENTO<br>
+                    -NO INCLUYE DESAYUNO<br>
+                    -SERVICIO DESPERTADOR<br>
+                    -FORMAS DE PAGOS: Efectivo
+                </p>
+                <p>
+                    RESEÑA HISTORICA <br>
+                    SU CONSTRUCCIÓN COMIENZA EN EL AÑO 1950 Y LA FINALIZACIÓN DE SU CONSTRUCCIÓN SE FINALIZA EN EL AÑO
+                    1980. EL HOTEL PASÓ DE GENERACIÓN EN GENERACIÓN HASTA SUS ACTUALES DUEÑOS.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hotel-san-nicolas/1-1.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>POSADA Y CABAÑA LOS ORQUERA</h2>
+            <div class="datos">
+                UBICACIÓN: El Puesto
+
+                <p>
+                    TEL.: 383-4755666 / 3837-690702<br>
+                    PÁGINAS/E-MAIL: www.posadalosorquera.com.ar
+                </p>
+                <p>
+                    SERVICIOS:<br>
+                    LAS CABAÑAS:<br>
+                    -POSEEN TV DIRECTV<br>
+                    -BAÑO PRIVADO<br>
+                    -COCINA COMPLETA CON VAJILLA
+                </p>
+                <p>
+                    LA POSADA:<br>
+                    -TV DIRECTV UNICAMENTE EN EL DESAYUNADOR<br>
+                    -BAÑO PRIVADO<br>
+                    -ESTACIONAMIENTO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -SERVICO DESPERTADOR<br>
+                    -FORMAS DE PAGO: Efectivo y transferencias bancarias.<br>
+                    -ALMUERZO, MERIENDA Y CENA SÓLO A PEDIDO DEL CLIENTE Y EL COSTO ES APARTE.
+                </p>
+                <p>
+                    RESEÑA HISTORICA <br>
+                    SE TRATA DE UN EMPRENDIMIENTO FAMILIAR EL CUAL BUSCA MINETIZARSE CON EL ESTILO DE CONSTRUCCIÓN COMÚN
+                    DE LA LOCALIDAD DE EL PUESTO, EL CUAL SE CARACTERIZA POR EL USO DE PIEDRA Y ADOBE COMO MATERIAL DE
+                    CONSTRUCCIÓN. DE FAMILIA ANCESTRAL EN EL LUGAR DESCENDIENTES DE DOÑA MANUELA Y DOÑA MARTINA ASIARIS
+                    ENCARGADAS DE LA CONSTRUCCIÓN DEL ORATORIO DE LOS ORQUERA DEL AÑO 1740.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hostal-munay/1-1.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hostal-munay/2-2.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>HOSTERIA ANTIGAL</h2>
+            <div class="datos">
+                UBICACIÓN: Copacabana
+
+                <p>
+                    TEL.: 3837-414944<br>
+                    PÁGINAS/E-MAIL: amontiel@gmail.com / graantigal@gmail.com
+                </p>
+                <p>
+                    SERVICIOS:<br>
+                    -WIFI<br>
+                    -HABITACION CON AIRE ACONDICIONADO FRIO/CALOR<br>
+                    -ESTACIONAMIENTO<br>
+                    -BAÑO PRIVADO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -PILETA<br>
+                    -ASADORES<br>
+                    -BAR<br>
+                    -PERGOLA<br>
+                    -SERVICO DESPERTADOR<br>
+                    -FORMAS DE PAGO: Efectivo. Tarjetas de Crédito y Débito.<br>
+                    -ACTIVIDADES ALTERNATIVAS: Rincón infantil, patio matero.<br>
+                    -SERVICIO DE ALMUERZO, MERIENDA Y CENA A PEDIDO DEL CLIENTE, EL COSTO ES APARTE.
+                </p>
+                <p>
+                    RESEÑA HISTORICA<br>
+                    CASONA DE CAMPO CON GRAN POTENCIAL TURISTICO, INICIA SUS ACTIVIDADES EN EL AÑO 2013 Y A LA FECHA SE
+                    ENCUENTRA TOTALMENTE REMODELADO CON UNA GRAN PUESTA EN VALOR HACIA EL TURISTA. EMPRENDIMIENTO QUE
+                    APUNTA A EL DESARROLLO DEL TRABAJO GENUINO FOCALIZADO EN LA LOCALIDAD DE COPACABANA.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hosteria-antigal/1-1.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hosteria-antigal/2-2.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hosteria-antigal/3-3.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>HOTEL SISABEL</h2>
+            <div class="datos">
+                UBICACIÓN: CALLE 12 DE OCTUBRE – BARRIO JARDÍN
+
+                <p>
+                    TEL.: 3837-434672<br>
+                    PÁGINAS/E-MAIL: hostalsisabel@gmail.com
+
+                </p>
+                <p>
+                    SERVICIOS:<br>
+                    -WIFI<br>
+                    -HABITACIONES CON TV CABLE<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR<br>
+                    -BAÑO PRIVADO<br>
+                    -COCINA COMPARTIDA COMPLETA CON VAJILLA Y BATERIA DE COCINA<br>
+                    -ESTACIONAMIENTO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -SERVICO DESPERTADOR<br>
+                    -FORMAS DE PAGO: Efectivo, Débito y Transferencias.<br>
+                    -SERVICIO DE ALMUERZO, MERIENDA Y CENA A PEDIDO DEL CLIENTE CON UN COSTO APARTE.
+                </p>
+                <p>
+                    RESEÑA HISTORICA<br>
+                    FUE CREADO PENSANDO EXCLUSIVAMENTE PARA EL TURISTA QUE DESEA TRANSITAR UNA ESTADIA CÓMODA Y
+                    AGRADABLE. ABREN SUS PUERTAS EN ENERO DEL AÑO 2016, CON EL OBJETIVO DE BRINDAR LO MEJOR DE TINOGASTA
+                    A CADA VISITANTE.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hotel-sisabel/1-1.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hotel-sisabel/2-2.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hotel-sisabel/3-3.jpg">
+        </div></div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>HOSTERIA NOVEL</h2>
+            <div class="datos">
+                UBICACIÓN: AV. CÓRDOBA 200
+
+                <p>
+                    TEL.: 3837-435314
+
+                </p>
+                <p>
+                    SERVICIOS:<br>
+                    -WIFI<br>
+                    -HABITACIONES CON TV<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO<br>
+                    -ESTACIONAMIENTO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -SERVICO DESPERTADOR<br>
+                    -PATIO Y SALON DE FIESTAS<br>
+                    -SERVICIO DE ALMUERZO Y CENA
+                </p>
+                <p>
+                    RESEÑA HISTORICA<br>
+                    HOSTERIA NOVEL FUE CREADO POR LA FAMILIA PEÑALOZA EL 16 DE FEBRERO DE 1980. SIEMPRE ATENDIDO POR SUS
+                    PROPIOS DUEÑOS SUMANDO HOSPEDAJE, COMEDOR Y LUGAR DE EVENTOS.<br>
+                    ACTUALMENTE OFRECE LOS MISMOS SERVICIOS A CARGO DE LA 2DA GENERACIÓN DE LA FAMILIA
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hosteria-novel/1-1.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/hosteria-novel/2-2.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>HOSTAL LAS PARINAS</h2>
+            <div class="datos">
+                UBICACIÓN: MORENO 439
+
+                <p>
+                    TEL.: 3837-470136<br>
+                    PÁGINAS/E-MAIL: lasparinashostal@hotmail.com
+
+                </p>
+                <p>
+                    SERVICIOS:<br>
+                    -WIFI<br>
+                    -HABITACIONES CON TV DIRECTV<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR<br>
+                    -ESTACIONAMIENTO<br>
+                    -BAÑO PRIVADO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -SERVICIO DESPERTADOR<br>
+                    -FORMAS DE PAGO: Efectivo, Tarjetas de Crédito y débito, Transferencia bancaria<br>
+                    -PRODUCTOS REGIONALES<br>
+                    -PILETA<br>
+                    -QUINCHO
+                </p>
+                <p>
+                    RESEÑA HISTORICA<br>
+                    LAS PARINAS HOSTAL INICIO SUS ACTIVIDADES HACE MÀS DE UNA DÈCADA COMO UN HOTEL FAMILIAR,
+                    PRESENTÀNDOSE COMO UNA CASONA DE ADOBE A METROS DE PLAZA PRINCIPAL.<br>
+                    TENIENDO COMO SELLO DISTINTIVO LA CALIDEZ EN LA ATENCIÒN PROPIA DE UNA FAMILIA TINOGASTEÑA.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/las-parinas/1-1.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/las-parinas/2-2.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/las-parinas/3-3.jpg"></div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="info_hoteles">
+        <div class="hotel">
+            <h2>LA SALA HOTEL BOUTIQUE</h2>
+            <div class="datos">
+                UBICACIÓN: LA PUNTILLA RUTA 60 KM 1311
+
+                <p>
+                    TEL.: 3837-421140 / CEL. 3837-438317<br>
+                    PÁGINAS/E-MAIL: osmarsaldaño@gmail.com
+
+                </p>
+                <p>
+                    SERVICIOS:<br>
+                    -HABITACIONES CON TV DIRECTV<br>
+                    -HABITACIONES CON AIRE ACONDICIONADO FRIO/CALOR<br>
+                    -ESTACIONAMIENTO<br>
+                    -BAÑO PRIVADO<br>
+                    -DESAYUNO INCLUIDO<br>
+                    -SERVICIO DESPERTADOR<br>
+                    -FORMAS DE PAGO: Efectivo, Tarjetas de Crédito y débito, bancaria, Mercado Pago.<br>
+                    -SERVICIO DE ALMUERZO, MERIENDA Y CENA SÓLO A PEDIDO DEL HUESPED Y EL COSTO ES APARTE DE LA TARIFA
+                    DE ALOJAMIENTO<br>
+                    -PILETA
+
+                </p>
+                <p>
+                    OTROS:<br>
+                    -TREKKING<br>
+                    -SENDERISMO<br>
+                    -SALON DE FIESTAS<br>
+                    -RESTAURANTE<br>
+                    -CABALGATAS (tercerizado)
+
+
+                </p>
+                <p>
+                    RESEÑA HISTORICA<br>
+                    CASONA DE 1850, COSTRUIDA POR EL CORONEL DARÌO FIGUEROA AL MANDO DEL GRAL. GUEMES BATALLANDO EN LA
+                    GUERRA DE INDEPENDENCIA.<br>
+                    LUEGO EN 185. SE CASA CON MACEDONIA FIGUEROA Y CONSTRUYE ESTA CASONA CON LAS INICIALES DE AMBOS QUE
+                    SE ENCUENTRAN EN EL FRENTE DE LAS PAREDES DE 80 CM DE ANCHO.<br>
+                    ESTA CASONA FUE COMPRADA POR EL DR. SALDAÑO EMPEZANDO LA PRODUCCIÒN AGRÌCOLA EN EL AÑO 1972 Y EN EL
+                    AÑO 2010 SE DA INICIO A LA ACTIVIDAD TURÌSTICA.
+                </p>
+            </div>
+        </div>
+        <div class="tarjeta">
+            <div><img src="https://tinogasta.tur.ar/images/turismo/la-sala/1-1.jpg"></div>
+            <div><img src="https://tinogasta.tur.ar/images/turismo/la-sala/2-2.jpg"></div>
+        </div>
+    </div>
+
+    <div class="banner">
+        <div class="texto">
+            <h3>Gracias Por Visitar TINOGASTA</h3>
+            <p>"Nuestro destino nunca es un lugar, sino una nueva forma de ver las cosas”</p>
+        </div>
+        <div class="palabra">
+            <img src="https://tinogasta.tur.ar/img/gadgets.png">
+        </div>
+    </div>
+
+
+    <div class="puntos_accesos">
+        <h2>Accesos</h2>
+        <div class="contenedor_accesos">
+            <div class="accesos_icono">
+                <div class="icon">
+                    <a href="https://tinogasta.tur.ar/comollegar.html"></a>
+                </div>
+                <a href="https://tinogasta.tur.ar/comollegar.html">Como llegar</a>
+                <p>Rutas.Accesos</p>
+            </div>
+        </div>
+        <div class="contenedor_accesos">
+            <div class="accesos_icono">
+                <div class="icon">
+                    <a href="https://tinogasta.tur.ar/mapasdelaciudad.html"></a>
+                </div>
+                <a href="https://tinogasta.tur.ar/mapasdelaciudad.html">Mapas de la ciudad</a>
+                <p>Mapas.Comercios y Servicios</p>
+            </div>
+        </div>
+        <div class="contenedor_accesos">
+            <div class="accesos_icono">
+                <div class="icon">
+                    <a href="https://tinogasta.tur.ar/quehacer.html"></a>
+                </div>
+                <a href="https://tinogasta.tur.ar/quehacer.html">Que Hacer</a>
+                <p>Actividades.Excursiones</p>
+            </div>
+        </div>
+        <div class="contenedor_accesos">
+            <div class="accesos_icono">
+                <div class="icon">
+                    <a href="https://tinogasta.tur.ar/gastronomia.html"></a>
+                </div>
+                <a href="https://tinogasta.tur.ar/gastronomia.html">Que Comer</a>
+                <p>Restaurantes.Comedores.Bares</p>
+            </div>
+        </div>
+        <div class="contenedor_accesos">
+            <div class="accesos_icono">
+                <div class="icon">
+                    <a href="https://tinogasta.tur.ar/hoteles.html"></a>
+                </div>
+                <a href="https://tinogasta.tur.ar/hoteles.html">Donde Alojarse</a>
+                <p>Hoteles Hosteles</p>
+            </div>
+        </div>
+        <div class="contenedor_accesos">
+            <div class="accesos_icono">
+                <div class="icon">
+                    <a href="https://tinogasta.tur.ar/clima.html"></a>
+                </div>
+                <a href="https://tinogasta.tur.ar/clima.html">Clima Hoy</a>
+                <p>Clima de Tinogasta y localidades</p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="municipalidad">
+        <div class="texto">
+            <h3>Visita la Página oficial de la Municipalidad de Tinogasta</h3>
+            <a href="http://tinogasta.gob.ar/ ">http://tinogasta.gob.ar/ </a>
+        </div>
+        <a href="http://tinogasta.gob.ar/"><button class="boton_muni">Click Aqui</button></a>
+    </div>
+
+    <div class="contenedor_galera">
+        <div class="relleno">
+            <h3 id="Galeria">Galeria de Fotos</h3>
+            <p>Conoce todo el Departamento de Tinogasta desde esta increíble Galería de Fotos de sus atractivos, rutas,
+                y sus lugares mas bellos. </p>
+            <div class="botones">
+                <a href="https://tinogasta.tur.ar/galeriafotos.html"><button>Galeria de Imagenes</button></a>
+                <a href="https://tinogasta.tur.ar/muestra-fotografica-virtual.html"><button>Muestra
+                        Fotografica</button></a>
             </div>
         </div>
         <div class="galeria">
-
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-1.jpg">
+                    <div>
+                        <h4>Iglesia San Juan Bautista</h4>
+                        <p>Ubicada en plaza principal 25 de Mayo</p>
+                    </div>
+                </a>
+            </div>
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-2.jpg">
+                    <div>
+                        <h4>La india del Portezuelo</h4>
+                        <p>Ubicada en ruta Nac°60</p>
+                    </div>
+                </a>
+            </div>
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-3.jpg">
+                    <div>
+                        <h4>Iglesia del Andacollo - La Falda</h4>
+                        <p>Ruta del Adobe</p>
+                    </div>
+                </a>
+            </div>
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-4.jpg">
+                    <div>
+                        <h4>Vista desde el Cerrito Blanco</h4>
+                        <p>La Puntilla</p>
+                    </div>
+                </a>
+            </div>
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-5.jpg">
+                    <div>
+                        <h4>Vista desde Costa de Reyes</h4>
+                        <p>Costa de Reyes</p>
+                    </div>
+                </a>
+            </div>
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-6.jpg">
+                    <div>
+                        <h4>Tiro Federal</h4>
+                        <p>Copacabana</p>
+                    </div>
+                </a>
+            </div>
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-7.jpg">
+                    <div>
+                        <h4>Puente Colgante</h4>
+                        <p>Copacabana</p>
+                    </div>
+                </a>
+            </div>
+            <div class="cuadro">
+                <a href="https://tinogasta.tur.ar/hoteles.html#"><img src="https://tinogasta.tur.ar/img/porf-8.jpg">
+                    <div>
+                        <h4>La Aguadita</h4>
+                        <p>Complejo Termal</p>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
-    
+
+    <div class="servicios_turisticos">
+        <h3>Prestadores de Servicios Turisticos</h3>
+        <div class="contenedor_tarjetas">
+            <div class="tarjeta">
+                <img src="">
+                <h4>Guias/Agencias</h4>
+                <p>Guias Habilitados</p>
+            </div>
+            <div class="tarjeta">
+                <img src="">
+                <h4>Alojamiento</h4>
+                <p>Hoteles/Hosteles</p>
+            </div>
+            <div class="tarjeta">
+                <img src="">
+                <h4>Gastronomicos</h4>
+                <p>restaurantes/Bares</p>
+            </div>
+            <div class="tarjeta">
+                <img src="">
+                <h4>Transporte</h4>
+                <p>Transportes Habilitados</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="contactanos">
+        <div>
+            <h3>Contactanos</h3>
+            <div>
+                <i class="">infoturismotinogasta@gmail.com</i>
+            </div>
+            <div>
+                <i class=""><a href="https://www.facebook.com/TinogastaTur/">Turismo Tinogasta</a></i>
+            </div>
+            <div>
+                <i class=""><a href="https://www.instagram.com/turismo.tinogasta/">@turismo.tinogasta</a></i>
+            </div>
+            <div>
+                <i class="">3837-430666</i>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="menu">
+            <a href="https://tinogasta.tur.ar/index.html">Inicio</a>
+            <a href="https://tinogasta.tur.ar/equipo.html">Equipo</a>
+            <a href="https://tinogasta.tur.ar/hoteles.html#features">Acceso</a>
+            <a href="https://tinogasta.tur.ar/hoteles.html#portfolio">Galeria</a>
+            <a href="https://tinogasta.tur.ar/hoteles.html#contact">Contactanos</a>
+        </div>
+        <div>
+            <div>
+                <p><span>Todos los derechos</span> Municipalidad de la Ciudad de Tinogasta</p>
+            </div>
+            <div><img src="https://tinogasta.tur.ar/images/pie/nacetuweb.png">Hosting Web Profesional</div>
+        </div>
+    </footer>
 </body>
 
 </html>
+
+////////////////////CSS/////////////////////
+/* *{
+   box-sizing:border-box;
+} */
+
+:root{
+    --principal:#972700;
+}
+
+header{
+    background-color: var(--principal);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 92%;
+    height: 70px;
+    padding: 0px 60px;
+    position: fixed;
+    margin-bottom: 300px;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .menu_principal{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.link{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    padding: 0px 5px;
+}
+
+.logo_red img{
+    margin: 4px;
+    box-sizing: content-box;
+    padding: 4px;
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border: 2px #212529 ;
+    border-radius: 50%;
+}
+
+body{
+    margin-top:400px ;
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-weight: 400;
+line-height: 1.5;
+color: #212529;
+background-image: url(https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg); 
+
+}
+
+button{
+    background-color: var(--principal);
+    border:solid 3px #fff;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: bold;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    padding: 10px 25px;
+}
+
+h1{
+    font-size: 3.5em;
+}
+h2{
+    font-size: 2.7em;
+}
+h3{
+    font-size: 1.8em;
+}
+h4{
+    font-size: 1em;
+}
+#foto img{
+    padding-left: 150px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+table th{
+    border: 1px solid #fff;
+    border-collapse: collapse;
+    background-color: #972700;
+    padding: 4px 30px;
+    text-align: left;
+    color: #fff;
+    font-weight: normal;
+}
+
+table, td {
+    border: 1px solid rgb(148, 143, 143);
+    border-collapse: collapse;
+  }
+
+  td{
+      padding: 3px 4px;
+      background-color: #fff;
+  }
+
+  .oscuro td{
+      background-color: #eee;
+  }
+
+  hr{
+      margin: 50px 200px;
+      padding: 2px;
+      background-color: #dd2700;
+  }
+
+  .turismo_container {
+      margin-left: 500 px;
+      display: flex;
+      flex-direction: column;
+  }
+
+.turismo_container h1{
+    margin-left: 375px;
+}
+
+  .turismo_container img {
+      margin-left: 400px;
+  }
+
+  .info_hoteles{
+      margin: 30px 50px;
+  }
+
+  .info_hoteles .hotel{
+      text-align: center;
+  }
+
+  .info_hoteles .tarjeta{
+display: flex;
+justify-content: space-between;
+  }
+
+  .info_hoteles .tarjeta div{
+      width: 300px;
+      height: 200px;
+      object-fit: cover;
+      box-shadow:0px 1px 2px 0px #000,0px 3px 5px 0px #ccc ;
+  }
+
+  .info_hoteles .tarjeta div img{
+      width: 300px;
+      height: 200px;
+  }
+
+  .banner{
+      background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/05/10/Red-Triangle-Mosaic-Background-Graphics-4084493-1.jpg);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .banner div h3{
+      color: #fff,
+  }
+
+  .banner .palabra img{
+    width: 600px;
+    height: 400;
+  }
